@@ -2,9 +2,9 @@
 
 [日本語](README.md)
 
-**A music player that keeps playing your own songs. You just leave it running.**
+**A music player that keeps playing the songs you own. You just leave it running.**
 
-HamonPlayer is for people who have thousands of their own songs and like to leave music playing while they work on their PC. With shuffle, songs you don't like keep coming back, and to avoid them, you usually have to delete songs, or give songs stars and make playlists. With HamonPlayer, you don't need to do that. It doesn't shuffle, and when you skip a song you don't like, it comes back less often. It has no main window. When another app plays sound, it pauses, and when the other app is quiet again, it plays again.
+HamonPlayer is for people who have thousands of songs on their PC and like to leave music playing while they work. With shuffle, songs you don't like keep coming back, and to avoid them, you usually have to delete songs, or give songs stars and make playlists. With HamonPlayer, you don't need to do that. It doesn't shuffle, and when you skip a song you don't like, it comes back less often. It has no main window. When another app plays sound, it pauses, and when the other app is quiet again, it plays again.
 
 > **HamonPlayer is currently a free public beta.** If you notice anything, let us know through the support contact on the official website. Known problems are listed in [Known issues](known_issues.en.md). This repository is where the **setup.exe version** of HamonPlayer is distributed. You can get the Microsoft Store version at <https://apps.microsoft.com/detail/9P297SKZ4T69>. The official website is <https://poola-vii.github.io/hamonplayer/index.en.html>.
 >
