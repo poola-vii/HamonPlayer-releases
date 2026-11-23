@@ -1,6 +1,6 @@
 # Known issues
 
-These are the known issues in HamonPlayer 1.0.2 (public beta), and the environments where it has been tested.
+These are the known issues in HamonPlayer 1.0.6 (public beta), and the environments where it has been tested.
 
 If you notice anything, let us know through the [support contact](https://poola-vii.github.io/hamonplayer/support.en.html). We'll add what we learn to this page.
 
